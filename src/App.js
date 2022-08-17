@@ -5,7 +5,6 @@ import {
 } from 'react-router-dom';
 
 const Todo = () => {
-  console.log('ya')
   return <p>這是 Todo 頁面 
   </p>;
 };
